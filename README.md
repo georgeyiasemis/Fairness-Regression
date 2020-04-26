@@ -5,11 +5,11 @@ The task is the analysis of the effect of regularisation on accuracy-fairness tr
 
 # Files:
 
-**Code:**
+* **Code:**
 
-* `Adult Dataset.ipynb` contains an analysis on the Adult Dataset. 
-* `Compas Dataset.ipynb` contains an analysis on the Compas Dataset.
-* `Adult non-binary.ipynb` contains an analysis on the Adult Dataset in the case of a non-binary sensitive feature as an extrapolation of what was taught. 
-* `Model_Selection.ipynb` contains the random train/splits and average results for model selection.
+    * `Adult Dataset.ipynb` contains an analysis on the Adult Dataset. 
+    * `Compas Dataset.ipynb` contains an analysis on the Compas Dataset.
+    * `Adult non-binary.ipynb` contains an analysis on the Adult Dataset in the case of a non-binary sensitive feature as an extrapolation of what was taught. 
+    * `Model_Selection.ipynb` contains the random train/splits and average results for model selection.
 
-**Report**
+* **Report**
